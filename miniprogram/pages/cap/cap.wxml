@@ -1,0 +1,9 @@
+<view class='button'>
+<button class='button' disabled="{{disabled}}" bindtap="cap">
+enter the psychology test</button>
+</view>
+
+ 
+<image src="/images/xin4.jpeg" class='arr'></image > 
+
+<image src="/images/xin3.png" class='img'></image >

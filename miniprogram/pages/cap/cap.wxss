@@ -1,0 +1,27 @@
+/* miniprogram/pages/cap/cap.wxss */
+.button{width: 50%;
+margin-left:65px;
+height: 100rpx;
+background-color:rgb(238, 210, 159);
+color: whitesmoke;
+border-radius: 50px;
+font-size: 30rpx;
+size: 50px;
+background-size: 30px;
+align-items:center;
+position:fixed;
+bottom:300px;
+border: none ;
+
+}
+.img{
+height:50px;
+
+
+}
+.arr{
+height:450px
+
+}
+
+

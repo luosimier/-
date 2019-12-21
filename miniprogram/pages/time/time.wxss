@@ -1,0 +1,25 @@
+/* miniprogram/pages/time/time.wxss */
+button::after{ 
+  border: none; 
+}
+
+button {
+    margin-top: 20px;
+    border-radius: 30px;
+}
+btna {
+  background:rgb(253, 201, 201)
+}
+.btnb {
+  background:#f7c6f3
+}
+.btnc {
+  background:rgb(244, 252, 134)
+}
+.btnd {
+  background:rgb(101, 240, 250)
+}
+.btne {
+  background:greenyellow
+}
+

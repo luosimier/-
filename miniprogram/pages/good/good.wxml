@@ -1,0 +1,28 @@
+
+
+<view class="container">
+
+<view class='wen'> {{message}} </view>
+<view wx:if="{{fen>=30}}">
+<view class="xin">
+<image src='/images/xin.png' mode="widthFix"></image>
+</view>
+</view>
+<view wx:elif="{{fen<20}}">
+<view class="xin1">
+<image src='/images/xin1.png' mode="widthFix"></image>
+</view>
+</view>
+<view wx:else>
+<view class="xin1">
+<image src='/images/xin1.png' mode="widthFix"></image>
+</view>
+</view>
+<view class='button-group'>
+
+<button class='button' hover-class='none' bindtap='lastq1'>预约时间</button>
+
+</view>
+</view>
+
+

@@ -1,0 +1,10 @@
+<view>选择预约日期</view>
+<view>
+<button bindtap='confirm' class='btn1'>星期一</button>
+<button bindtap='confirm' class='btn2'>星期二</button>
+<button bindtap='confirm' class='btn3'>星期三</button>
+<button bindtap='confirm' class='btn4'>星期四</button>
+<button bindtap='confirm' class='btn5'>星期五</button>
+<button bindtap='confirm' class='btn6'>星期六</button>
+<button bindtap='confirm' class='btn7'>星期日</button>
+</view>

@@ -1,0 +1,80 @@
+/* miniprogram/pages/good/good.wxss */
+
+/**index.wxss**/
+
+page {
+background: #f1ce82;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+}
+
+.wen{
+background:#f31abd09;
+font-size: 50rpx;
+color: rgb(253, 249, 253);
+margin: 10px 1px;
+}
+
+.xin{
+height: 200%;
+width: 70%;
+background: rgb(14, 189, 189);
+display: flex;
+flex-direction: row;
+align-items: center;
+transition: all 300ms ease;
+margin: auto;
+}
+.xin1{
+height: 200%;
+width: 70%;
+background: rgb(14, 189, 189);
+display: flex;
+flex-direction: row;
+align-items: center;
+transition: all 300ms ease;
+margin:auto;
+}
+.xin2{
+height: 200%;
+width: 70%;
+background: rgb(14, 189, 189);
+display: flex;
+flex-direction: row;
+align-items: center;
+transition: all 300ms ease;
+margin:auto;
+}
+.button-group {
+display: flex;
+flex-direction: row;
+width: 80%;
+margin: auto;
+justify-content: space-between;
+
+}
+.button-hover {
+background-color:rgb(243, 234, 234)
+
+}
+.button {
+background: #fcbe39;
+border-radius: 100rpx;
+font-size: 30rpx;
+line-height: 52rpx;
+height: 52rpx;
+width: 172rpx;
+font-weight: bold;
+color: #fff;
+}
+sheet {
+  background: #fff;
+  border-radius: 36rpx;
+  margin-top: 160rpx;
+  width: 84%;
+  height: 580rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}

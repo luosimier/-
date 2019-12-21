@@ -1,0 +1,30 @@
+/* miniprogram/pages/data/day.wxss */
+button::after{ 
+  border: none; 
+}
+
+button {
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.btn1 {
+  background: #f8ecfd; 
+}
+.btn2 {
+  background:rgb(228, 252, 216);
+}
+.btn3 {
+  background: rgb(255, 243, 218)
+}
+.btn4 {
+  background:rgb(250, 228, 228)
+}
+.btn5 {
+  background:rgb(255, 249, 212)
+}
+.btn6 {
+  background:rgb(253, 214, 247)
+}
+.btn7 {
+  background:rgb(211, 245, 243)
+}
